@@ -1,6 +1,6 @@
 # ToDo's List
 
-ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
+ToDo list is a simple web application to save your daily tasks in order not to miss anything.
 
 ## Features
 
